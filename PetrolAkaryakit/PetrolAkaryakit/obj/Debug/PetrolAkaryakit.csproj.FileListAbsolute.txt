@@ -1,0 +1,11 @@
+D:\PetrolAkaryakit\PetrolAkaryakit\bin\Debug\PetrolAkaryakit.exe.config
+D:\PetrolAkaryakit\PetrolAkaryakit\bin\Debug\PetrolAkaryakit.exe
+D:\PetrolAkaryakit\PetrolAkaryakit\bin\Debug\PetrolAkaryakit.pdb
+D:\PetrolAkaryakit\PetrolAkaryakit\obj\Debug\PetrolAkaryakit.csproj.AssemblyReference.cache
+D:\PetrolAkaryakit\PetrolAkaryakit\obj\Debug\PetrolAkaryakit.csproj.SuggestedBindingRedirects.cache
+D:\PetrolAkaryakit\PetrolAkaryakit\obj\Debug\PetrolAkaryakit.Form1.resources
+D:\PetrolAkaryakit\PetrolAkaryakit\obj\Debug\PetrolAkaryakit.Properties.Resources.resources
+D:\PetrolAkaryakit\PetrolAkaryakit\obj\Debug\PetrolAkaryakit.csproj.GenerateResource.cache
+D:\PetrolAkaryakit\PetrolAkaryakit\obj\Debug\PetrolAkaryakit.csproj.CoreCompileInputs.cache
+D:\PetrolAkaryakit\PetrolAkaryakit\obj\Debug\PetrolAkaryakit.exe
+D:\PetrolAkaryakit\PetrolAkaryakit\obj\Debug\PetrolAkaryakit.pdb
